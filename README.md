@@ -1,5 +1,7 @@
-Hi, I'm Kamronbek 👋
-Fronted Developer 💻 | HTML | CSS | JavaScript | React
+# Hi, I'm Kamronbek 👋  
+**Frontend Developer 💻 | HTML | CSS | JavaScript | React**
+
+---
 
 ## 💻 About Me
 - 🌱 Learning **React & JavaScript**
