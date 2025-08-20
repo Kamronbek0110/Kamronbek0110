@@ -1,16 +1,15 @@
-<div align="center">
+<div align="center" style="padding:0 10px 20px;">
 
 # Hi, I'm Kamronbek 👋  
 
 ## **Frontend Developer 💻 | HTML | CSS | JavaScript | React**
 
-<br>
 
 </div>
 
-### 🌍 Profiles
+### 🌍 Socials
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/kamronbek-zayniddinov-888a72379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Kamronbek0110"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://kwork.ru/user/z_kamronbek"><img src="https://img.shields.io/badge/Kwork-00C853?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
@@ -19,7 +18,6 @@
   <a href="https://www.youtube.com/@The_Coder_ZK"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Z_Kamronbek/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.tiktok.com/@z.kamronbek1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 
@@ -56,7 +54,6 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
