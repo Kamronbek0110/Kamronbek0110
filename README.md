@@ -2,10 +2,10 @@ Hi, I'm Kamronbek 👋
 Fronted Developer 💻 | HTML | CSS | JavaScript | React
 
 ## 💻 About Me
-- 🌱 Learning **React & Node.js**
+- 🌱 Learning **React & JavaScript**
 - 🔭 Working as a **Frontend Developer (Freelancer)**
-- 💼 Tajriba: **10+ yil** (2013 – hozirgacha)
-- 💬 Ask me about **JavaScript, HTML, CSS, React**
+- 💼 Tajriba: **10+ yil** (2016 – hozirgacha)
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 - ⚡ Fun fact: I love coding at night 🌙
 - 📂 Portfolio: [devzk.netlify.app](https://devzk.netlify.app)
 
@@ -32,8 +32,6 @@ Fronted Developer 💻 | HTML | CSS | JavaScript | React
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-pink?logo=figma&logoColor=white)
 
 ---
 
