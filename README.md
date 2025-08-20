@@ -1,6 +1,7 @@
-# Hi, I'm Kamronbek 👋  
-**Frontend Developer 💻 | HTML | CSS | JavaScript | React**
-
+<p align="center">
+Hi, I'm Kamronbek 👋<br>
+<b>Frontend Developer 💻 | HTML | CSS | JavaScript | React</b>
+</p>
 ---
 
 ## 💻 About Me
