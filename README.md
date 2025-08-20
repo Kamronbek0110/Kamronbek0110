@@ -1,6 +1,8 @@
-<div align="center" style="padding:0 10px 20px;">
+<img width="100%"  alt="banner" src="https://github.com/user-attachments/assets/0200d89b-ebcd-408a-a664-ed3989cc6573" />
 
-# Hi, I'm Kamronbek 👋  
+<div align="center">
+  
+## Hi, I'm Kamronbek 👋  
 
 ## **Frontend Developer 💻 | HTML | CSS | JavaScript | React**
 
@@ -59,12 +61,12 @@
 ---
 
 ## 💼 Tajriba
-- Freelancer (2016 – hozirgacha)  
-- Sayt ishlab chiqish (landing, portfolio, korporativ)  
-- Adaptiv va kross-brauzerlik veb-sahifalar yaratish  
-- UI/UX takomillashtirish va redizayn  
-- Tezlikni optimallashtirish va xatolarni tuzatish  
-- Hosting, domen, SSL va SEO sozlamalari  
+- Freelancer (2016 – Present)
+- Website development (landing pages, portfolios, corporate sites, online shops, etc.)
+- Responsive and cross-browser web pages
+- UI/UX improvements and redesign
+- Speed optimization and bug fixing
+- Hosting, domain, SSL, and SEO setup
 
 ---
 
@@ -76,9 +78,9 @@
 ---
 
 ## 🌍 Languages
-- 🇺🇿 O‘zbek tili – Ona tili  
-- 🇷🇺 Rus tili – Yaxshi daraja  
-- 🇬🇧 Ingliz tili – Yaxshi daraja  
+- 🇺🇿 Uzbek – Native  
+- 🇷🇺 Russian – Advanced  
+- EN English – Advanced   
 
 ---
 
