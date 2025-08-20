@@ -1,8 +1,22 @@
-<p align="center">
-Hi, I'm Kamronbek 👋<br>
-<b>Frontend Developer 💻 | HTML | CSS | JavaScript | React</b>
-</p>
+<div align="center">
+
+# Hi, I'm Kamronbek 👋  
+
+## **Frontend Developer 💻 | HTML | CSS | JavaScript | React**
+</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamronbek-zayniddinov-888a72379/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Kamronbek0110)
+[![Kwork](https://img.shields.io/badge/Kwork-green?logo=kwork&logoColor=white)](https://kwork.ru/user/z_kamronbek)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/Z_Kamronbek)
+[![AppDaily](https://img.shields.io/badge/AppDaily-black?logo=appveyor&logoColor=white)](https://app.daily.dev/z_kamronbek)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@The_Coder_ZK)
+
+
+
 ---
+
+
 
 ## 💻 About Me
 - 🌱 Learning **React & JavaScript**
@@ -12,20 +26,15 @@ Hi, I'm Kamronbek 👋<br>
 - ⚡ Fun fact: I love coding at night 🌙
 - 📂 Portfolio: [devzk.netlify.app](https://devzk.netlify.app)
 
+- 
 ---
 
 
-
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamronbek-zayniddinov-888a72379/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Kamronbek0110)
-[![Kwork](https://img.shields.io/badge/Kwork-green?logo=kwork&logoColor=white)](https://kwork.ru/user/z_kamronbek)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/Z_Kamronbek)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/z_kamronbek_uz/)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61579265848645)
-[![AppDaily](https://img.shields.io/badge/AppDaily-black?logo=appveyor&logoColor=white)](https://app.daily.dev/z_kamronbek)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@The_Coder_ZK)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/z_kamronbek_uz/)  
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61579265848645)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:zayniddinovkamronbek668@gmail.com)
+
 
 
 ---
