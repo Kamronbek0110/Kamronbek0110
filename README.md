@@ -32,7 +32,7 @@
 ## 💻 About Me
 - 🌱 Learning **React & JavaScript**
 - 🔭 Working as a **Frontend Developer (Freelancer)**
-- 💼 Tajriba: **10+ yil** (2016 – hozirgacha)
+- 💼 Experience: 10+ years (2016 – present)
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - ⚡ Fun fact: I love coding at night 🌙
 - 📂 Portfolio: [devzk.netlify.app](https://devzk.netlify.app)
