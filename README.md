@@ -82,7 +82,7 @@
 ## 🌍 Languages
 - 🇺🇿 Uzbek – Native  
 - 🇷🇺 Russian – Advanced  
-- EN English – Advanced   
+- 🇺🇸 English – Advanced   
 
 ---
 
