@@ -33,45 +33,100 @@
 ## 💻 About Me
 - 🌱 Learning **React & JavaScript**
 - 🔭 Working as a **Frontend Developer (Freelancer)**
-- 💼 Experience: 10+ years (2016 – present)
+- 💼 Experience: 2+ years (2024 – present)
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - ⚡ Fun fact: I love coding at night 🌙
 - 📂 Portfolio: [devzk.netlify.app](https://devzk.netlify.app)
 
-
 ---
 
+<h2 align="left" id="macropower-tech"> 🚀 Skills</h2>
 
-## 🌐 Connect with me:
-<a href="https://t.me/Z_Kamronbek"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:zayniddinovkamronbek668@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=61579265848645"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+> Tools, languages, and other things that I like to work with.
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="48" height="48"/>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/373535/css.svg" width="48" height="48"/>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/373705/js-official.svg" width="48" height="48"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354259/react.svg" width="48" height="48"/>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/452091/python.svg" width="48" height="48"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/452183/cpp.svg" width="48" height="48"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/452210/git.svg" width="48" height="48"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+      <br>GitHub
+    </td>
+  </tr>
+</table>
 
-
----
-
-## 🚀 Skills
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
 
 ---
 
 ## 💼 Experience
-- Freelancer (2016 – Present)
+- Freelancer (2024 – Present)
 - Website development (landing pages, portfolios, corporate sites, online shops, etc.)
 - Responsive and cross-browser web pages
 - UI/UX improvements and redesign
 - Speed optimization and bug fixing
 - Hosting, domain, SSL, and SEO setup
+
+---
+
+<h2 align="left" id="macropower-tech">📞 Connect with me</h2>
+
+> Feel free to contact me if you're interested.
+<img src="https://www.svgrepo.com/show/493206/coffee.svg" width="48" height="48" align="right"/>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://t.me/Z_Kamronbek">
+        <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="48" height="48" alt="Telegram" />
+      </a>
+      <br>
+      <a href="https://t.me/Z_Kamronbek">Telegram</a>
+    </td>
+  <td align="center" width="96">
+      <a href="https://www.facebook.com/profile.php?id=61579265848645">
+        <img src="https://www.svgrepo.com/show/448224/facebook.svg" width="48" height="48" alt="Facebook">
+      </a>
+      <br>
+      <a href="https://www.facebook.com/profile.php?id=61579265848645">Facebook</a>
+    </td>
+  <td align="center" width="96">
+      <a href="mailto:zayniddinovkamronbek668@gmail.com">
+        <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="48" height="48" alt="Gmail" />
+      </a>
+      <br>
+      <a href="mailto:zayniddinovkamronbek668@gmail.com">Gmail</a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
