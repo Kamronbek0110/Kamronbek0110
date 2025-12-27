@@ -131,9 +131,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamronbek0110&show_icons=true&theme=radical)  
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kamronbek0110&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamronbek0110&layout=compact&theme=radical)
+![Kamronbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamronbek0110&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamronbek0110&layout=compact&theme=tokyonight)
+
 
 ---
 
