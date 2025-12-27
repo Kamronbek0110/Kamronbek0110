@@ -108,12 +108,11 @@
       <br>
       <a href="https://t.me/Z_Kamronbek">Telegram</a>
     </td>
-  <td align="center" width="96">
-      <a href="https://www.facebook.com/profile.php?id=61579265848645">
-        <img src="https://www.svgrepo.com/show/448224/facebook.svg" width="48" height="48" alt="Facebook">
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="48" height="48" alt="Instagram" />
       </a>
-      <br>
-      <a href="https://www.facebook.com/profile.php?id=61579265848645">Facebook</a>
+      <br><a href="https://www.instagram.com/z_kamronbek_uz/">Instagram<a/>
     </td>
   <td align="center" width="96">
       <a href="mailto:zayniddinovkamronbek668@gmail.com">
@@ -121,6 +120,13 @@
       </a>
       <br>
       <a href="mailto:zayniddinovkamronbek668@gmail.com">Gmail</a>
+    </td>
+  <td align="center" width="96">
+      <a href="https://www.facebook.com/profile.php?id=61579265848645">
+        <img src="https://www.svgrepo.com/show/448224/facebook.svg" width="48" height="48" alt="Facebook">
+      </a>
+      <br>
+      <a href="https://www.facebook.com/profile.php?id=61579265848645">Facebook</a>
     </td>
   </tr>
 </table>
