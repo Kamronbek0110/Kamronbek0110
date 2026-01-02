@@ -155,4 +155,4 @@
 
 ---
 
-⭐️ From [Kamronbek0110](https://github.com/Kamronbek0110)
+⭐️ From [Kamronbek](https://github.com/Kamronbek0110)
