@@ -136,10 +136,31 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kamronbek0110&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamronbek0110&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamronbek0110&layout=compact&theme=radical)
+<h2>📊 Stats and Activity</h2>
+
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 GitHub Streak Stats" alt="Kamronbek0110's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Kamronbek0110&theme=monokai-metallian&hide_border=true&short_numbers=true" />
+    </a>
+    <p>🔥 Your GitHub streak & contributions via <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+  <a href="https://github.com/Kamronbek0110">
+    <img alt="Kamronbek0110's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Kamronbek0110&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/>
+  </a>
+
+  <a href="https://github.com/Kamronbek0110">
+    <img alt="Kamronbek0110's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamronbek0110&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
+  </a>
+  <br/>
+  <br/>
+  <b>Note:</b> Top languages here show stats from public repos and may not reflect all skills.
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Kamronbek0110's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kamronbek0110&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF&hide_border=true" />
+  </a>
+
 
 ---
 
