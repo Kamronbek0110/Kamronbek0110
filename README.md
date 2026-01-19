@@ -141,9 +141,8 @@
   <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 GitHub Streak Stats" alt="Kamronbek0110's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Kamronbek0110&theme=monokai-metallian&hide_border=true&short_numbers=true" />
+      <img title="🔥 GitHub Streak Stats" alt="Kamronbek0110's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Kamronbek0110&theme=react&hide_border=true&short_numbers=true" />
     </a>
-    <p>🔥 Your GitHub streak & contributions via <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
