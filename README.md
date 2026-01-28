@@ -33,7 +33,7 @@
 ## 💻 About Me
 - 🌱 Learning **React & JavaScript**
 - 🔭 Working as a **Frontend Developer (Freelancer)**
-- 💼 Experience: 5+ years (2020 – present)
+- 💼 Experience: 3+ years (2023 – present)
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - ⚡ Fun fact: I love coding at night 🌙
 - 📂 Portfolio: [devzk.netlify.app](https://devzk.netlify.app)
@@ -85,7 +85,7 @@
 ---
 
 ## 💼 Experience
-- Freelancer (2020 – Present)
+- Freelancer (2023 – Present)
 - Website development (landing pages, portfolios, corporate sites, online shops, etc.)
 - Responsive and cross-browser web pages
 - UI/UX improvements and redesign
