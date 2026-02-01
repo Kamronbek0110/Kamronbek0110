@@ -165,7 +165,7 @@
 
 ## 🌍 Languages
 - 🇺🇿 Uzbek – Native  
-- 🇷🇺 Russian – Fluent  
+- 🇷🇺 Russian – Intermediate  
 - 🇺🇸 English – Intermediate   
 
 ---
