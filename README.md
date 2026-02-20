@@ -171,8 +171,4 @@
 ---
 
 ## ⌨️ Typing Animation
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&lines=Frontend+Developer;JavaScript+%7C+React+Lover)](https://git.io/typing-svg)
-
----
-
-⭐️ From [Kamronbek](https://github.com/Kamronbek0110)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=5FDBFB&lines=Frontend+Developer;JavaScript+%7C+React+Lover)](https://git.io/typing-svg)
