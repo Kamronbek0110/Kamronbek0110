@@ -140,8 +140,8 @@
 
   <h3>🔥 Streak Stats</h3>
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 GitHub Streak Stats" alt="Kamronbek0110's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Kamronbek0110&theme=react&hide_border=true&short_numbers=true" />
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=Kamronbek0110&theme=react&hide_border=true&short_numbers=true" alt="GitHub Streak" />
     </a>
   </p>
 
