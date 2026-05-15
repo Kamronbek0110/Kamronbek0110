@@ -170,5 +170,4 @@
 
 ---
 
-## ⌨️ Typing Animation
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=5FDBFB&lines=Frontend+Developer;JavaScript+%7C+React+Lover)](https://git.io/typing-svg)
